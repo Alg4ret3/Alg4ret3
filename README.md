@@ -112,25 +112,20 @@
 			<br><br>
 			<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 			<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-			<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alg4ret3&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alg4ret3&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alg4ret3&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+			<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 
 <!-- Top Projects List -->
 </br>
 <h2 align="center">Top Projects</h2>
 <p align="center">
   <a href="https://github.com/alg4ret3/tu-primer-repo">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alg4ret3&repo=tu-primer-repo&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&hide_border=false&icon_color=70A5FD&show_icons=false&border_radius=10" alt="tu-primer-repo">
+    <img width="500" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alg4ret3&repo=tu-primer-repo&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&hide_border=false&icon_color=70A5FD&show_icons=false&border_radius=10" alt="tu-primer-repo">
   </a>
   <a href="https://github.com/alg4ret3/tu-segundo-repo">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alg4ret3&repo=tu-segundo-repo&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&hide_border=false&icon_color=70A5FD&show_icons=false&border_radius=10" alt="tu-segundo-repo">
+    <img width="500" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alg4ret3&repo=tu-segundo-repo&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&hide_border=false&icon_color=70A5FD&show_icons=false&border_radius=10" alt="tu-segundo-repo">
   </a>
   <a href="https://github.com/alg4ret3/tu-tercer-repo">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alg4ret3&repo=tu-tercer-repo&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&hide_border=false&icon_color=70A5FD&show_icons=false&border_radius=10" alt="tu-tercer-repo">
+    <img width="500" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alg4ret3&repo=tu-tercer-repo&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&hide_border=false&icon_color=70A5FD&show_icons=false&border_radius=10" alt="tu-tercer-repo">
   </a>
 </p>
 </br>
@@ -147,7 +142,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=alg4ret3&show_icons=true&theme=tokyonight&border_radius=10&card_width=420&card_height=200"/>
   </a>
 </div>
-
 
 
 
