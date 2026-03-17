@@ -3,7 +3,7 @@
 <!--  -->
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=25&center=true&vCenter=true&width=1000&height=100&lines=I'm+Sergio+Muñoz,+Computer+Engineer;Passionate+about+Artificial+Intelligence;Experienced+in+React,+Next.js,+JS+and+TS;Backend+Developer+with+Node.js+and+Nest.js;Clean+Code+and+Scalable+Architectures;Machine+Learning+with+Python,+YOLO,+Detectron;Image+Recognition+Projects;Project+Leader+from+Design+to+Deployment;Exploring+Automation+with+n8n+Workflows">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=70A5FD&size=24&center=true&vCenter=true&width=1000&height=100&duration=3000&lines=I'm+Sergio+Muñoz,+Computer+Engineer;Passionate+about+Artificial+Intelligence;Experienced+in+React,+Next.js,+JS+and+TS;Backend+Developer+with+Node.js+and+Nest.js;Clean+Code+and+Scalable+Architectures;Machine+Learning+with+Python,+YOLO,+Detectron;Image+Recognition+Projects;Project+Leader+from+Design+to+Deployment;Exploring+Automation+with+n8n+Workflows">
 </a>
 
 <!-- Contador de visitas al perfil -->
@@ -14,9 +14,6 @@
   </a>
   <a href="https://www.linkedin.com/in/bouaskaoun/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Bouaskaoun">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://discord.gg/tu-invitacion">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
@@ -174,13 +171,8 @@
 
 ![Alg4ret3's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alg4ret3&custom_title=Alg4ret3's%20GitHub%20Activity%20Graph&theme=tokyo-night)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=alg4ret3&icon=5&color=7)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=Fira+Code&bg_color=0D1117&title_color=70A5FD&quote_color=70A5FD" alt="Random Dev Quote"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
