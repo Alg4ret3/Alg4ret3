@@ -119,6 +119,46 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=alg4ret3&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alg4ret3&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Top Projects List -->
+</br>
+<h2 align="center">Top Projects</h2>
+<p align="center">
+  <a href="https://github.com/alg4ret3/tu-primer-repo">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alg4ret3&repo=tu-primer-repo&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&hide_border=false&icon_color=70A5FD&show_icons=false&border_radius=10" alt="tu-primer-repo">
+  </a>
+  <a href="https://github.com/alg4ret3/tu-segundo-repo">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alg4ret3&repo=tu-segundo-repo&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&hide_border=false&icon_color=70A5FD&show_icons=false&border_radius=10" alt="tu-segundo-repo">
+  </a>
+  <a href="https://github.com/alg4ret3/tu-tercer-repo">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alg4ret3&repo=tu-tercer-repo&theme=tokyonight&bg_color=0D1117&title_color=70A5FD&hide_border=false&icon_color=70A5FD&show_icons=false&border_radius=10" alt="tu-tercer-repo">
+  </a>
+</p>
+</br>
+
+<!-- Current Stats card -->
+</br>
+<h2 align="center">Current Stats</h2>
+
+<div align="center">
+  <a href="https://github.com/alg4ret3">
+    <img alt="Alg4ret3's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alg4ret3&theme=tokyonight&border_radius=10&card_width=420&card_height=200"/>
+  </a>
+  <a href="https://github.com/alg4ret3">
+    <img src="https://github-readme-stats.vercel.app/api?username=alg4ret3&show_icons=true&theme=tokyonight&border_radius=10&card_width=420&card_height=200"/>
+  </a>
+</div>
+
+
+
+
+<!-- Activity Graph card -->
+</br>
+</br>
+<h2 align="center">Activity Graph</h2>
+
+![Alg4ret3's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alg4ret3&custom_title=Alg4ret3's%20GitHub%20Activity%20Graph&theme=tokyo-night)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
