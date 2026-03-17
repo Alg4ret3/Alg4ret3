@@ -1,4 +1,17 @@
-# 💫 About Me:
+
+<h1 align="center"><b>Hi , I'm Sergio Muñoz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=25&center=true&vCenter=true&width=1000&height=100&lines=I'm+Sergio+Muñoz,+Computer+Engineer;Passionate+about+Artificial+Intelligence;Experienced+in+React,+Next.js,+JS+and+TS;Backend+Developer+with+Node.js+and+Nest.js;Clean+Code+and+Scalable+Architectures;Machine+Learning+with+Python,+YOLO,+Detectron;Image+Recognition+Projects;Project+Leader+from+Design+to+Deployment;Exploring+Automation+with+n8n+Workflows">
+</a>
+
+<!-- Contador de visitas al perfil -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Alg4ret3&label=Profile%20views&color=FF4500&style=flat" alt="Alg4ret3" /> 
+</p>
+
+
 I'm Sergio Muñoz, a computer engineer passionate about programming, with a special focus on artificial intelligence. I have experience developing modern web applications using technologies like React and Next.js, primarily working with JavaScript and TypeScript, and deploying solutions using Docker. I also have experience in backend development with Node.js and Nest.js, applying best development practices, clean code, design patterns, and scalable architectures. In the field of artificial intelligence, I've worked with Python on the development and training of machine learning models, using tools like YOLO and Detectron, especially in image recognition projects. Furthermore, I have the ability to lead technology projects from start to finish: from requirements gathering and architecture definition to workflow design, implementation, and deployment of solutions. Currently, I'm expanding my knowledge of process automation using n8n workflows, exploring new ways to integrate and optimize systems.
 
 
