@@ -11,8 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=Alg4ret3&label=Profile%20views&color=FF4500&style=flat" alt="Alg4ret3" /> 
 </p>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE5cmZkNjN1cGVkbmN0ajJoaHVkNHdxOHZrNDU3N3FpMW1nbHFhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif">
 </a>
+
 
 - 👋 I’m **Sergio Muñoz**, Computer Engineer passionate about **AI**  
 - 💻 Experienced in **React**, **Next.js**, **JavaScript**, **TypeScript** and deploying solutions with **Docker**  
