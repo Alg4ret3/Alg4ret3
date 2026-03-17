@@ -10,9 +10,26 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Alg4ret3&label=Profile%20views&color=FF4500&style=flat" alt="Alg4ret3" /> 
 </p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
+- 👋 I’m **Sergio Muñoz**, Computer Engineer passionate about **AI**  
+- 💻 Experienced in **React**, **Next.js**, **JavaScript**, **TypeScript** and deploying solutions with **Docker**  
 
-I'm Sergio Muñoz, a computer engineer passionate about programming, with a special focus on artificial intelligence. I have experience developing modern web applications using technologies like React and Next.js, primarily working with JavaScript and TypeScript, and deploying solutions using Docker. I also have experience in backend development with Node.js and Nest.js, applying best development practices, clean code, design patterns, and scalable architectures. In the field of artificial intelligence, I've worked with Python on the development and training of machine learning models, using tools like YOLO and Detectron, especially in image recognition projects. Furthermore, I have the ability to lead technology projects from start to finish: from requirements gathering and architecture definition to workflow design, implementation, and deployment of solutions. Currently, I'm expanding my knowledge of process automation using n8n workflows, exploring new ways to integrate and optimize systems.
+- ⚙️ Skilled in **Backend Development** with **Node.js** and **Nest.js**, applying clean code, design patterns, and scalable architectures  
+
+- 🤖 Worked with **Python** for **Machine Learning models**, using **YOLO** and **Detectron** in image recognition projects  
+
+- 📈 Ability to **lead technology projects end-to-end**: requirements gathering, architecture definition, workflow design, implementation, and deployment  
+
+- 🔄 Currently exploring **process automation** with **n8n workflows**, integrating and optimizing systems  
+
+- 💬 Ask me about **Web Development, Backend Architectures, and Machine Learning**  
+
+- 📫 How to reach me: **[tu_email_aquí]**  
+
+- 📄 Know more about my experiences: <a href="https://devsergiomunioz.vercel.app/" target="blank">Resume / Portfolio</a>  
 
 
 ## 🌐 Socials:
