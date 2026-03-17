@@ -28,22 +28,22 @@
 </a>
 
 
-- 👋 I’m **Sergio Muñoz**, Computer Engineer passionate about **AI**  
-- 💻 Experienced in **React**, **Next.js**, **JavaScript**, **TypeScript** and deploying solutions with **Docker**  
+-  I’m **Sergio Muñoz**, Computer Engineer passionate about **AI**  
+-  Experienced in **React**, **Next.js**, **JavaScript**, **TypeScript** and deploying solutions with **Docker**  
 
-- ⚙️ Skilled in **Backend Development** with **Node.js** and **Nest.js**, applying clean code, design patterns, and scalable architectures  
+-  Skilled in **Backend Development** with **Node.js** and **Nest.js**, applying clean code, design patterns, and scalable architectures  
 
-- 🤖 Worked with **Python** for **Machine Learning models**, using **YOLO** and **Detectron** in image recognition projects  
+-  Worked with **Python** for **Machine Learning models**, using **YOLO** and **Detectron** in image recognition projects  
 
-- 📈 Ability to **lead technology projects end-to-end**: requirements gathering, architecture definition, workflow design, implementation, and deployment  
+-  Ability to **lead technology projects end-to-end**: requirements gathering, architecture definition, workflow design, implementation, and deployment  
 
-- 🔄 Currently exploring **process automation** with **n8n workflows**, integrating and optimizing systems  
+-  Currently exploring **process automation** with **n8n workflows**, integrating and optimizing systems  
 
-- 💬 Ask me about **Web Development, Backend Architectures, and Machine Learning**  
+-  Ask me about **Web Development, Backend Architectures, and Machine Learning**  
 
-- 📫 How to reach me: **mzalexander83@gmail.com**  
+-  How to reach me: **mzalexander83@gmail.com**  
 
-- 📄 Know more about my experiences: <a href="https://devsergiomunioz.vercel.app/" target="blank">Resume / Portfolio</a>  
+-  Know more about my experiences: <a href="https://devsergiomunioz.vercel.app/" target="blank">Resume / Portfolio</a>  
 
 </br>
 
