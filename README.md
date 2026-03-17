@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Web Development, Backend Architectures, and Machine Learning**  
 
-- 📫 How to reach me: **[tu_email_aquí]**  
+- 📫 How to reach me: **mzalexander83@gmail.com**  
 
 - 📄 Know more about my experiences: <a href="https://devsergiomunioz.vercel.app/" target="blank">Resume / Portfolio</a>  
 
