@@ -1,5 +1,7 @@
 
-<h1 align="center"><b>Hi , I'm Sergio Muñoz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Sergio Muñoz </b><img ></h1>
+
+
 <!--  -->
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -170,9 +172,5 @@
 <h2 align="center">Activity Graph</h2>
 
 ![Alg4ret3's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alg4ret3&custom_title=Alg4ret3's%20GitHub%20Activity%20Graph&theme=tokyo-night)
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=Fira+Code&bg_color=0D1117&title_color=70A5FD&quote_color=70A5FD" alt="Random Dev Quote"/>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
